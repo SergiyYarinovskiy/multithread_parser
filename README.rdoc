@@ -1,0 +1,7 @@
+== README
+
+Running multithread parser in folder:
+    ruby parser.rb	
+
+* Parses page with images and prices from http://hotline.ua/dacha_sad/cepnye-pily/
+
